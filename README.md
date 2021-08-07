@@ -18,9 +18,10 @@ Estudante de data science
 **Conhecimentos em:** Pythone Machine Learning.
 
 **Links:**
-* [Blog](http://xyz.xyz)
-* [LinkedIn](https://www.linkedin.com/in/xyz)
-* [Medium](https://www.medium.com)
+* **[Blog](http://xyz.xyz) **
+* **[LinkedIn](https://www.linkedin.com/in/xyz)**
+* **[Medium](https://www.medium.com)**
+* 
 
 
 ## Projetos:
